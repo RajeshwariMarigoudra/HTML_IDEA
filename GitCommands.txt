@@ -1,0 +1,8 @@
+######## Git push Command ####### without README FILE
+git init
+git add .
+git commit -m "commit msg"
+git branch -M main
+git remote add origin Your_URL
+git push -u origin main
+
