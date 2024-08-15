@@ -6,3 +6,13 @@ git branch -M main
 git remote add origin Your_URL
 git push -u origin main
 
+---------------------------------
+---------------------------------
+
+######### After Modified the code Git Push ########
+
+git status
+git add .
+git commit -m "commit msg"
+git push -u origin main
+
