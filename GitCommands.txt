@@ -17,3 +17,13 @@ git commit -m "commit msg"
 git push -u origin main
 
 ##################################################
+
+###### check the branches############
+
+git checkout
+
+###### status checking ########
+git status
+
+######### modifield the git code(remote to local) #########
+git pull
